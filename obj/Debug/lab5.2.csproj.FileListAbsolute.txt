@@ -1,0 +1,8 @@
+C:\Users\This PC\source\repos\ConsoleApp3\lab5.2\obj\Debug\lab5.2.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\ConsoleApp3\lab5.2\obj\Debug\lab5.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\This PC\source\repos\ConsoleApp3\lab5.2\obj\Debug\lab5.2.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\ConsoleApp3\lab5.2\bin\Debug\lab5.2.exe.config
+C:\Users\This PC\source\repos\ConsoleApp3\lab5.2\bin\Debug\lab5.2.exe
+C:\Users\This PC\source\repos\ConsoleApp3\lab5.2\bin\Debug\lab5.2.pdb
+C:\Users\This PC\source\repos\ConsoleApp3\lab5.2\obj\Debug\lab5.2.exe
+C:\Users\This PC\source\repos\ConsoleApp3\lab5.2\obj\Debug\lab5.2.pdb
